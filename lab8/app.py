@@ -1,6 +1,7 @@
 from flask import Flask, jsonify
 import json
 import os
+# підглядав у Менчинського
 
 app = Flask(__name__)
 	

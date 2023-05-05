@@ -3,6 +3,7 @@ from flask_cors import CORS, cross_origin
 import numpy as np
 import rasterio
 import geopandas as gpd
+# підглядав у Менчинського
 
 app = Flask(__name__)
 
